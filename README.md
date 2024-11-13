@@ -7,3 +7,5 @@ Lab 04 - https://github.com/PathaAkash/AIML-2025/blob/main/AIML_LAB_04_(27_8).ip
 Lab 05 - https://github.com/PathaAkash/AIML-2025/blob/main/AIML_LAB_05.ipynb
 Lab 06 - https://github.com/PathaAkash/AIML-2025/blob/main/AIML_LAB_06.ipynb
 
+Lab 08 - https://github.com/PathaAkash/AIML-2025/blob/main/AIML_LAB_08ipynb.ipynb
+
