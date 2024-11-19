@@ -10,4 +10,5 @@ Lab 07 - https://github.com/PathaAkash/AIML-2025/blob/main/AIML_LAB_07.ipynb
 Lab 08 - https://github.com/PathaAkash/AIML-2025/blob/main/AIML_LAB_08ipynb.ipynb
 Lab 09 - https://github.com/PathaAkash/AIML-2025/blob/main/AIML_LAB_9.ipynb
 Lab 10 - https://github.com/PathaAkash/AIML-2025/blob/main/AIMI_LAB_10.ipynb
+Lab 11 - labexam_01 - https://github.com/PathaAkash/AIML-2025/blob/main/AIML_LABEXAM.ipynb
 
